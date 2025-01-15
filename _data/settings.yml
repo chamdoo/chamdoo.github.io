@@ -1,7 +1,6 @@
 menu:
 #- {name: 'people', url: '/people'}
-#- {name: 'Publications', url: '/publications'}
-- {name: 'Publication', url: <a href="https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en">}
+- {name: 'Publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
