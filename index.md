@@ -9,6 +9,7 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 
 #### [Publication](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
 
+
 #### Contact
 
 - Email: [{{site.data.basic.email}}](mailto:{{site.data.basic.email}})
@@ -18,9 +19,9 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 
 #### Education
 
-- Ph.D. in Computer Science and Engineering, Seoul National University, 2013.
-- M.S. in Computer Science and Engineering, Seoul National University, 2007.
-- B.E. in Electrical Engineering, Korea University, 2005.
+- Ph.D. in Computer Science and Engineering, Seoul National University, 2013
+- M.S. in Computer Science and Engineering, Seoul National University, 2007
+- B.E. in Electrical Engineering, Korea University, 2005
 
 #### Experience
 
