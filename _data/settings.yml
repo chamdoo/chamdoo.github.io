@@ -1,4 +1,5 @@
 menu:
+- {name: 'CV', url: '/CV_SungjinLee.pdf'}
 #- {name: 'people', url: '/people'}
 #- {name: 'Publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
