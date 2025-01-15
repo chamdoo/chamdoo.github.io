@@ -26,8 +26,6 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 {% for section in site.data.experience %} 
 - {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
 
-#### [Publication](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
-
 #### Honors and Awards
 {% for section in site.data.awards %} 
 - {{section.name}}, {{section.organization}}, {{section.year}} {% endfor %}
