@@ -1,5 +1,5 @@
 menu:
-- {name: 'CV', url: '/_data/CV_SungjinLee.pdf'}
+- {name: 'CV', url: {{ site.github.url }}/assets/CV_SungjinLee.pdf'}
 #- {name: 'people', url: '/people'}
 #- {name: 'Publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
