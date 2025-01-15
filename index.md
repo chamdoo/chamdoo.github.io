@@ -12,7 +12,6 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 #### Contact
 
 - Email: [{{site.data.basic.email}}](mailto:{{site.data.basic.email}})
-- Bibliography: [DBLP](https://dblp.uni-trier.de/pid/29/3671-1.html), [Google Scholar](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
 - Phone: {{site.data.basic.phone}}
 - Office: {{site.data.basic.office}}, {{site.data.basic.institution_address}}
 
@@ -27,6 +26,9 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 
 {% for section in site.data.experience %} 
 - {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
+
+#### Publication
+- [DBLP](https://dblp.uni-trier.de/pid/29/3671-1.html), [Google Scholar](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
 
 #### Honors and Awards
 {% for section in site.data.awards %} 
