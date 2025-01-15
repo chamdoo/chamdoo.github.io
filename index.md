@@ -28,7 +28,7 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 - {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
 
 #### Publication
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=2Da8hHAAAAAJ&view_op=list_works&sortby=pubdate), [DBLP](https://dblp.uni-trier.de/pid/29/3671-1.html), 
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=2Da8hHAAAAAJ&view_op=list_works&sortby=pubdate), [DBLP](https://dblp.uni-trier.de/pid/29/3671-1.html)
 
 #### Honors and Awards
 {% for section in site.data.awards %} 
