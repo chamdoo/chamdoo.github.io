@@ -1,5 +1,5 @@
 - name: Test of Time Paper Awar
-  organization: , SIGFAST, KIISE
+  organization: SIGFAST, KIISE
   year: 2024
 
 - name: Best Paper Award
@@ -16,7 +16,7 @@
 
 - name: Post-Doctoral Research Fellowship
   organization: National Research Foundation of Korea (NRF)
-  year: 2013-2014
+  year: 2013 -- 2014
 
 - name: Microsoft Research Asia (MSRA) Fellowship
   organization: Microsoft
@@ -24,11 +24,11 @@
 
 - name: Samsung Electronics Fellowship
   organization: Samsung Electronics
-  year: 2011-2013
+  year: 2011 -- 2013
 
 - name: Korea Student Aid Foundation (KOSAF) Fellowship
   organization: Korea Government
-  year: 2009-2010
+  year: 2009 -- 2010
 
 - name: Best Paper Award
   organization: Institute of Embedded Engineering of Korea (IEMEK)
