@@ -21,13 +21,13 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 - M.S. in Computer Science and Engineering, Seoul National University, 2007
 - B.E. in Electrical Engineering, Korea University, 2005
 
-#### [Publication](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
-<br>
-
 #### Experience
 
 {% for section in site.data.experience %} 
 - {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
+
+#### [Publication](https://scholar.google.com/citations?user=2Da8hHAAAAAJ&hl=en)
+<br>
 
 #### Honors and Awards
 {% for section in site.data.awards %} 
