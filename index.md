@@ -23,8 +23,8 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 #### Education
 
 - Postdoctoral Associate, Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT), 2013 -- 2016
-- Ph.D. in Computer Science and Engineering, Seoul National University, 2013
-- M.S. in Computer Science and Engineering, Seoul National University, 2007
+- Ph.D. in Computer Science and Engineering, Seoul National University (SNU), 2013
+- M.S. in Computer Science and Engineering, Seoul National University (SNU), 2007
 - B.E. in Electrical Engineering, Korea University, 2005
 
 #### Publication
