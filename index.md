@@ -15,6 +15,11 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 - Phone: {{site.data.basic.phone}}
 - Office: {{site.data.basic.office}}, {{site.data.basic.institution_address}}
 
+#### Academic Employment
+
+{% for section in site.data.experience %} 
+- {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
+
 #### Education
 
 - Postdoctoral Associate, Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT), 2013 -- 2016
@@ -22,18 +27,13 @@ I am an associate professor at [EECS, DGIST (Daegu Gyeongbuk Institute of Scienc
 - M.S. in Computer Science and Engineering, Seoul National University, 2007
 - B.E. in Electrical Engineering, Korea University, 2005
 
-#### Experience
-
-{% for section in site.data.experience %} 
-- {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
-
 #### Publication
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=2Da8hHAAAAAJ&view_op=list_works&sortby=pubdate), [DBLP](https://dblp.uni-trier.de/pid/29/3671-1.html)
 
-#### Honors and Awards
+#### Awards, Fellowships, and Grants
 {% for section in site.data.awards %} 
 - {{section.name}}, {{section.organization}}, {{section.year}} {% endfor %}
 
-#### Service
+#### Academic Services
 {% for section in site.data.services %}
 - {{section.role}}, {{section.organization}}, {{section.period}} {% endfor %}
