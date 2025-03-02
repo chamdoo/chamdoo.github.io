@@ -1,4 +1,4 @@
 url: "https://chamdoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Prof. Sungjin Lee" # the name of your site, e.g. ACME Corp.
-description: "Associate Professor @ DGIST EECS"
+description: "Associate Professor @ POSTECH CSE"
