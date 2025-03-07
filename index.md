@@ -34,6 +34,25 @@ I am an Associate Professor at [CSE, Pohang University of Science and Technology
 {% for section in site.data.awards %} 
 - {{section.name}}, {{section.organization}}, {{section.year}} {% endfor %}
 
+#### Students
+- **Postdoc**  
+  * Jinhyung Koo @CSE/POSTECH (2025.03~)
+  * Junsu Im @CSE/POSTECH (2025.03~)
+- **Ph.D Student**
+  * Minjae Kim @EECS/DGIST (2019.02~)
+  * Juhyung Park @EECS/DGIST (2020.02~)
+  * Jungwoo Kim @EECS/DGIST (2021.02~)
+  * Seonggyun Oh @EECS/DGIST (2021.02~)
+  * Euntae Bae @EECS/DGIST (2022.02~)
+  * Jeeyun Kim @CSE/POSTECH (2022.02~)
+- **MS Student**
+  * Chanwoo Moon @EECS/DGIST (2024.03~) 
+  * Gwangin Kim @EECS/DGIST (2024.03~)
+  * Kyeongmin Kim @EECS/DGIST (2024.03~)
+  * Jueun Park @EECS/DGIST (2024.03~)
+  * Jaeheon Lee @CSE/POSTECH (2025.03~)
+  * Heejin Kim @CSE/POSTECH (2025.03~)
+
 #### Academic Services
 {% for section in site.data.services %}
 - {{section.role}}, {{section.organization}}, {{section.period}} {% endfor %}
