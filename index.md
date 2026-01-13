@@ -45,8 +45,8 @@ I am an Associate Professor at [CSE, Pohang University of Science and Technology
   * Jeeyun Kim @CSE/POSTECH (2022.02~)
   * Dain Kim @CSE/POSTECH (2026.02~)
 - **MS Student**
-  * Jaeheon Lee @CSE/POSTECH (2025.03~)
-  * Heejin Kim @CSE/POSTECH (2025.03~)
+  * Jaeheon Lee @CSE/POSTECH (2025.02~)
+  * Heejin Kim @CSE/POSTECH (2025.02~)
   * Ilhwi Hong @CSE/POSTECH (2026.02~)
   * Kyeongmin Kim @CSE/POSTECH (2026.02~)
 
